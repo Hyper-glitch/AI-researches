@@ -7,6 +7,6 @@
 - **[NLP in Russian: From TF-IDF to Transformers](https://www.kaggle.com/code/hyperglitch/nlp-in-russian-from-tf-idf-to-transformers)**
 - **[News Classification with Classic ML](https://www.kaggle.com/code/hyperglitch/news-classification-with-classic-ml)**
 - **[Basic RAG](https://www.kaggle.com/code/hyperglitch/basic-rag)**
-- **[Information Retrieval](https://www.kaggle.com/code/hyperglitch/information-retrieval)
-- **[Vectors](https://www.kaggle.com/code/hyperglitch/vectors)
-- **[Experiments with chunks](https://www.kaggle.com/code/hyperglitch/experiments-with-chunks)
+- **[Information Retrieval](https://www.kaggle.com/code/hyperglitch/information-retrieval)**
+- **[Vectors](https://www.kaggle.com/code/hyperglitch/vectors)**
+- **[Experiments with chunks](https://www.kaggle.com/code/hyperglitch/experiments-with-chunks)**
